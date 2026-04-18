@@ -4,7 +4,6 @@
 - Clientes
 - Horários
 - Aluguel
-- Aluguel_Horário
 
 ## Regras
 - Impedir reserva duplicada de horário
